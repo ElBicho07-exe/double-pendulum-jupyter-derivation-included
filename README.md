@@ -1,8 +1,3 @@
-Absolutely — here is a **clean, professional README.md** you can directly drop into your project folder.
-It’s written at a **student–researcher level**: honest, clear, and impressive without exaggeration.
-
----
-
 
 # Double Pendulum Simulation (Python)
 
@@ -191,3 +186,4 @@ It is suitable for:
 
 *“The goal was not to make it look cool —
 the goal was to make it true.”*
+
